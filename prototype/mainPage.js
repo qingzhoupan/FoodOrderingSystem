@@ -264,7 +264,7 @@ function getReceipt(){
   contents.innerHTML = ""
   var receipt = document.createElement("div");
   receipt.setAttribute("class", "receipt");
-  receipt.innerHTML = "<p class='good'>Sucessful!</p><p class='need'>Do you need a receipt?</p><form action = 'begin.html'><button class='receiptCheck'>Yes</button> <button class='receiptCheck'>No</button></form>";
+  receipt.innerHTML = "<p class='good'>Sucessful!</p><p class='need'>Do you need a receipt?</p><form action = 'start.html'><button class='receiptCheck'>Yes</button> <button class='receiptCheck'>No</button></form>";
   contents.appendChild(receipt);
 }
 
