@@ -6,7 +6,7 @@ body {
 
 .leftSide {
     float: left;
-    width: 200px;
+    width: 250px;
     margin-right: 50px;
     position: fixed;
     display: inline;
