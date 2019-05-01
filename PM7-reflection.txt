@@ -1,0 +1,26 @@
+1. If you had to do the project over again, what would you have done differently and why?
+	a. I will probably add session, or cookies for the website. 
+	b. we can let our user add or delete ingredients for every food.
+
+2. If you had to do the project over again, what would you keep the same and why?
+	a. I will keep the same, we have followed almost exactly what we have for our paper prototype. 
+     	Because I love the most part of our project.
+	b. I will keep our navigation and search box.
+	c. I will choose our participants from different groups.
+
+3. What are your key take-aways from this project? What did you learn from the experience? 
+These may be in terms of design, utility of specific tasks, working in your particular group, 
+and/or anything else related to this project.
+ 	a. People are hard, they have lots of different requirement, it's hard to follow all request.
+	b. We can choose diverse participants.
+	c. How to analyse data from our participants.
+	d.I have learned how to make design choice based of design principle.
+	
+
+
+4. Was there anything that surprised you, 
+if so, what? If not, what was your expectation and how was it met?
+	a. It's hard to transfer paper prototype to digital prototype.
+	b. However, we almost did the same design for the paper prototype, because we have followed the design choice and 
+	   design principle. And we did most our work on javascript.
+	
